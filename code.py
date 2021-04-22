@@ -1,5 +1,5 @@
 # Importrando Modulos
-from biblioteca import *
+from biblioteca import * # Esse import foi de uma biblioteca que fiz pra deixar o layout do programa mais intuituvo 
 
 # Montando Layout
 titulo('CRIPTO')
